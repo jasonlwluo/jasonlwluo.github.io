@@ -76,7 +76,8 @@ a.copyright:hover {
 footer {
   padding: 5px;
   text-align: center;
-  background: #ddd;
+  //background: #ddd;
+  background: #ebf5fb;
 }
 
 
