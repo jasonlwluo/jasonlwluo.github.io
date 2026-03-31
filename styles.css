@@ -61,11 +61,8 @@ p.nav {
   color: white;
   width:200px;
   text-align: left;
-  /*font-size: 1.2em;*/
-}
-
-p.justify-text {
   text-align: justify;
+  /*font-size: 1.2em;*/
 }
 
 /* unvisited link */
