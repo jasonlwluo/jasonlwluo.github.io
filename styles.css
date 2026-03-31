@@ -52,7 +52,8 @@ h2.title {
 }
 
 p {
-margin-left:30px;
+  margin-left:30px;
+  text-align: justify;
 }
 
 p.nav {
@@ -61,7 +62,6 @@ p.nav {
   color: white;
   width:200px;
   text-align: left;
-  text-align: justify;
   /*font-size: 1.2em;*/
 }
 
