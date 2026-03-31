@@ -53,16 +53,11 @@ h2.title {
 
 p {
   margin-left:30px;
+}
+
+p.text {
+  margin-left:30px;
   text-align: justify;
-}
-
-p.blockquote {
-  margin-left:30px;
-}
-
-p.blockquote_name {
-  margin-left:30px;
-  text-align:right;
 }
 
 p.nav {
