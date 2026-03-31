@@ -64,6 +64,10 @@ p.nav {
   /*font-size: 1.2em;*/
 }
 
+p.justify-text {
+  text-align: justify;
+}
+
 /* unvisited link */
 a.copyright {
   color:#5e8eab;
