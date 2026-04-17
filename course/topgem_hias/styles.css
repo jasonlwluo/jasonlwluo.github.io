@@ -64,6 +64,18 @@ p.nav {
   /*font-size: 1.2em;*/
 }
 
+/* unvisited doc link */
+a.doc {
+  color:#5e8eab;
+  text-decoration:none;
+  /*order-bottom:dotted 2px orange;*/
+}
+
+/* mouse over doc link */
+a.doc:hover {
+  color:#f5b041;
+}
+
 /* unvisited link */
 a.copyright {
   color:#5e8eab;
