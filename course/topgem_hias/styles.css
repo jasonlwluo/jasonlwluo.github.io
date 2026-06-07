@@ -53,7 +53,6 @@ h2.title {
 
 p {
   margin-left:30px;
-  margin-right: 15px;/* Creates a blank spacer between image and text */
 }
 
 p.nav {
@@ -63,6 +62,11 @@ p.nav {
   width:200px;
   text-align: left;
   /*font-size: 1.2em;*/
+}
+
+img.float-right {
+  float: right;
+  margin-left: 15px; /* Creates a blank spacer between image and text */
 }
 
 /* unvisited doc link */
