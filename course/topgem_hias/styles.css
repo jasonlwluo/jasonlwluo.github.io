@@ -53,7 +53,7 @@ h2.title {
 
 p {
   margin-left:30px;
-  padding-left:5px;
+  margin-right: 15px;/* Creates a blank spacer between image and text */
 }
 
 p.nav {
